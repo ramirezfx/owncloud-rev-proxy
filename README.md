@@ -18,4 +18,4 @@ Compile/Start The Container:
 `docker-compose up -d`
 
 
-Point Your Browser To http://localhost:port (8080 by default) and log in with the credentials provided in the .env file
+Point Your Browser To http://localhost and log in with the credentials provided in the .env file
