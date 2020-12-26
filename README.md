@@ -1,6 +1,6 @@
 Get The file with 
 
-`git clone https://github.com/ramirezfx/owncloud.git`
+`git clone https://github.com/ramirezfx/owncloud-rev-proxy.git`
 
 
 Navigate to the working-directory:
